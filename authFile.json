@@ -1,0 +1,287 @@
+{
+  "cookies": [
+    {
+      "name": "ajs_anonymous_id",
+      "value": "6bbc1870-a9b8-4dc3-900a-5ed8dda71afe",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1717008308,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.552529165.1685472303",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1720032305.706387,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.947179395.1685472303",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1685558705,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1685472363,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__zlcmid",
+      "value": "1G7lrMqY6KhrNhB",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1717008306,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DT",
+      "value": "DI1vi2mIxk5T8GhspdPyYfw2A",
+      "domain": "auth2-dev.mabl.com",
+      "path": "/",
+      "expires": 1720032304.556158,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-redirect-params",
+      "value": "{%22responseType%22:%22code%22%2C%22state%22:%22YiaRZHibNuIClwiRjE3YTojuGRrdknIOCNbb6VFYb8QyMAcMDv3RhFJ2d8KRW4ei%22%2C%22nonce%22:%22rUPfnIsyI9YkBG5hlSJ3uEeIsKdllvkZJ2CJzlAzoRF9xgKick9QndFob9Yfn36J%22%2C%22scopes%22:[%22openid%22%2C%22profile%22%2C%22email%22%2C%22offline_access%22]%2C%22clientId%22:%220oamuehnyLZhBbKh91d6%22%2C%22urls%22:{%22issuer%22:%22https://auth2-dev.mabl.com/oauth2/default%22%2C%22authorizeUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/authorize%22%2C%22userinfoUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/userinfo%22%2C%22tokenUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/token%22%2C%22revokeUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/revoke%22%2C%22logoutUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/logout%22}%2C%22ignoreSignature%22:false}",
+      "domain": "app-dev.mabl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-nonce",
+      "value": "rUPfnIsyI9YkBG5hlSJ3uEeIsKdllvkZJ2CJzlAzoRF9xgKick9QndFob9Yfn36J",
+      "domain": "app-dev.mabl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-state",
+      "value": "YiaRZHibNuIClwiRjE3YTojuGRrdknIOCNbb6VFYb8QyMAcMDv3RhFJ2d8KRW4ei",
+      "domain": "app-dev.mabl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t",
+      "value": "purple",
+      "domain": "auth2-dev.mabl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sid",
+      "value": "102fhCK8GLXQZOp8A6DCTcu0w",
+      "domain": "auth2-dev.mabl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "gKE3J0VQSML6O0JXoV20klwulKumeaAsb7dw1YGPHi1AnJOvL2CrWBX/7vl6LQOZCqxyvi/DQkGAPWysKXpmYDKXMOYI80/tlpt/D5UT3Vr8JC2i0HpIJ0hoUr41",
+      "domain": "widget-mediator.zopim.com",
+      "path": "/",
+      "expires": 1686077105.965116,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-token-storage_idToken",
+      "value": "{%22idToken%22:%22eyJraWQiOiI2X2VvUTdXLU1wcEViZFNnRHN0Sk5nX1VPay1oOTFqa1N2Z0dJS3lMUmZNIiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiIwMHUzZ2xyZ3pyQnBwM2cyWjFkNyIsIm5hbWUiOiJUZXJyeSBLbm93bHRvbiIsImVtYWlsIjoidGVycnkrbG9jYWxAbWFibC5jb20iLCJ2ZXIiOjEsImlzcyI6Imh0dHBzOi8vYXV0aDItZGV2Lm1hYmwuY29tL29hdXRoMi9kZWZhdWx0IiwiYXVkIjoiMG9hbXVlaG55TFpoQmJLaDkxZDYiLCJpYXQiOjE2ODU0NzIzMDUsImV4cCI6MTY4NTQ3NTkwNSwianRpIjoiSUQuVktwMlhpTGM3NTdwa0I0cmFwM2FNVEpGUG8yUVY4azVNRzlrRjRyZ2pvbyIsImFtciI6WyJwd2QiXSwiaWRwIjoiMDBvNGEwazY0YXFqRUVVSXkxZDYiLCJub25jZSI6InJVUGZuSXN5STlZa0JHNWhsU0ozdUVlSXNLZGxsdmtaSjJDSnpsQXpvUkY5eGdLaWNrOVFuZEZvYjlZZm4zNkoiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXJyeStsb2NhbEBtYWJsLmNvbSIsImF1dGhfdGltZSI6MTY4NTQ3MjMwNCwiYXRfaGFzaCI6InFoQ1FkSE5HOGdReDVKRFdTN2VWbnciLCJjb20ubWFibC5lbWFpbCI6InRlcnJ5K2xvY2FsQG1hYmwuY29tIn0.Mc8NM9ECEA5zT0I_uaOMHZyp8RnrjR-WEmcOtZuNjkdwVdxdcK1ojn0JBDK0byTHRn7dwPPGnSjaCgRqK9qHFa73HHNowNBi-PZyUdoKTwhEmLqJjhKha73DAJs-abisfhtiN9TxWrjLXOVJJ-ARLeakXMZkuEf1OXUhyMmfJaIl4I50-7LEM3u-DQw-qYNHyQm5oa_WJK0g1G6WJQH_skJ33A4nZLF-isPqkacw-PfHQwkVNA7n-BCUVk0v6Cb6dTzL1D9-ZTm7Lx9b7lJUmB5DFXkE7r64aGRq31pG5INbM-9_eZ5JhKZETcn_tx2V8GvvaEWbjMACEBmtIhcMew%22%2C%22claims%22:{%22sub%22:%2200u3glrgzrBpp3g2Z1d7%22%2C%22name%22:%22Terry%20Knowlton%22%2C%22email%22:%22terry+local@mabl.com%22%2C%22ver%22:1%2C%22iss%22:%22https://auth2-dev.mabl.com/oauth2/default%22%2C%22aud%22:%220oamuehnyLZhBbKh91d6%22%2C%22iat%22:1685472305%2C%22exp%22:1685475905%2C%22jti%22:%22ID.VKp2XiLc757pkB4rap3aMTJFPo2QV8k5MG9kF4rgjoo%22%2C%22amr%22:[%22pwd%22]%2C%22idp%22:%2200o4a0k64aqjEEUIy1d6%22%2C%22nonce%22:%22rUPfnIsyI9YkBG5hlSJ3uEeIsKdllvkZJ2CJzlAzoRF9xgKick9QndFob9Yfn36J%22%2C%22preferred_username%22:%22terry+local@mabl.com%22%2C%22auth_time%22:1685472304%2C%22at_hash%22:%22qhCQdHNG8gQx5JDWS7eVnw%22%2C%22com.mabl.email%22:%22terry+local@mabl.com%22}%2C%22expiresAt%22:1685475905%2C%22scopes%22:[%22openid%22%2C%22offline_access%22%2C%22profile%22%2C%22email%22]%2C%22authorizeUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/authorize%22%2C%22issuer%22:%22https://auth2-dev.mabl.com/oauth2/default%22%2C%22clientId%22:%220oamuehnyLZhBbKh91d6%22}",
+      "domain": "app-dev.mabl.com",
+      "path": "/",
+      "expires": 1720032306.252736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-token-storage_accessToken",
+      "value": "{%22accessToken%22:%22eyJraWQiOiI2X2VvUTdXLU1wcEViZFNnRHN0Sk5nX1VPay1oOTFqa1N2Z0dJS3lMUmZNIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULmJpOGtQamMxVXBrVmI3RTVVa2xUZ0FfRWhwdFhvdm52cGlELWtqMVdUZ3cub2FycjY5a3Z5MnN4UVJiVXAxZDYiLCJpc3MiOiJodHRwczovL2F1dGgyLWRldi5tYWJsLmNvbS9vYXV0aDIvZGVmYXVsdCIsImF1ZCI6ImFwaTovL2RlZmF1bHQiLCJpYXQiOjE2ODU0NzIzMDUsImV4cCI6MTY4NTUwODMwNSwiY2lkIjoiMG9hbXVlaG55TFpoQmJLaDkxZDYiLCJ1aWQiOiIwMHUzZ2xyZ3pyQnBwM2cyWjFkNyIsInNjcCI6WyJvcGVuaWQiLCJvZmZsaW5lX2FjY2VzcyIsInByb2ZpbGUiLCJlbWFpbCJdLCJhdXRoX3RpbWUiOjE2ODU0NzIzMDQsInN1YiI6InRlcnJ5K2xvY2FsQG1hYmwuY29tIiwiaXNfZ2xvYmFsX2FkbWluIjpmYWxzZSwiaXNfc3VwcG9ydF9hZG1pbiI6ZmFsc2V9.eJRyGqEW_KbJF5ELVXj9qtEK3W5UizDlAr08eJH2OJevtxTgXYPF1lUsZDPdKO0PkoDm-DVEzipKorTdlV2bO_em5yuhjZXjnI6AzSCGXYrrttAmnJFYDbHmF13pVIbxLTddumm8-VjBR3p8HpoPLLGudO_my-iRPha7asXheUCMqE2ojaa7Ek1vvsZAnnQgqdyqjwoYSI4ZSumnqASUcMwSZNYOo0Lkng-emzRCn7YAvNnI-Nhc6_WhcYDhqMQGHxq0Fj1ozAc3lr7_iN2rT2l0MCv9hiqu4_AD3ZceC7_2ECvGm2FfZd7WajGpKaOI0lVgp-o2ktX7zXaoxRWn3A%22%2C%22claims%22:{%22ver%22:1%2C%22jti%22:%22AT.bi8kPjc1UpkVb7E5UklTgA_EhptXovnvpiD-kj1WTgw.oarr69kvy2sxQRbUp1d6%22%2C%22iss%22:%22https://auth2-dev.mabl.com/oauth2/default%22%2C%22aud%22:%22api://default%22%2C%22iat%22:1685472305%2C%22exp%22:1685508305%2C%22cid%22:%220oamuehnyLZhBbKh91d6%22%2C%22uid%22:%2200u3glrgzrBpp3g2Z1d7%22%2C%22scp%22:[%22openid%22%2C%22offline_access%22%2C%22profile%22%2C%22email%22]%2C%22auth_time%22:1685472304%2C%22sub%22:%22terry+local@mabl.com%22%2C%22is_global_admin%22:false%2C%22is_support_admin%22:false}%2C%22expiresAt%22:1685508305%2C%22tokenType%22:%22Bearer%22%2C%22scopes%22:[%22openid%22%2C%22offline_access%22%2C%22profile%22%2C%22email%22]%2C%22authorizeUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/authorize%22%2C%22userinfoUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/userinfo%22}",
+      "domain": "app-dev.mabl.com",
+      "path": "/",
+      "expires": 1720032306.253252,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-token-storage_refreshToken",
+      "value": "{%22refreshToken%22:%221C5g7Bg4nE-jiJ-NkazWkQ0Dzz3LgGm9Npo8HgrxPx8%22%2C%22expiresAt%22:1685508305%2C%22scopes%22:[%22openid%22%2C%22offline_access%22%2C%22profile%22%2C%22email%22]%2C%22tokenUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/token%22%2C%22authorizeUrl%22:%22https://auth2-dev.mabl.com/oauth2/default/v1/authorize%22%2C%22issuer%22:%22https://auth2-dev.mabl.com/oauth2/default%22}",
+      "domain": "app-dev.mabl.com",
+      "path": "/",
+      "expires": 1720032306.25392,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "020E767C1C541B62CFF837E2C4019609",
+      "domain": "auth2-dev.mabl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_user_id",
+      "value": "KBMusuufRCLRGH-FbFs5kA",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1717008308,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_group_id",
+      "value": "RI6s9Ki6tlSKotaGVwUacg-ac",
+      "domain": ".mabl.com",
+      "path": "/",
+      "expires": 1717008308,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app-dev.mabl.com",
+      "localStorage": [
+        {
+          "name": "ajs_user_id",
+          "value": "\"KBMusuufRCLRGH-FbFs5kA\""
+        },
+        {
+          "name": "okta-shared-transaction-storage",
+          "value": "{}"
+        },
+        {
+          "name": "_pendo_meta.117c76e0-707e-4b16-54d6-c231f93c1cd7",
+          "value": "391872951"
+        },
+        {
+          "name": "ajs_group_properties",
+          "value": "{\"createdAt\":\"2022-04-05T17:16:09.910Z\",\"id\":\"RI6s9Ki6tlSKotaGVwUacg-ac\",\"plan\":\"trial\",\"workspaceId\":\"Ii8K8QWSvWLc6zyE1XbWhQ-w\"}"
+        },
+        {
+          "name": "_pendo_guides_blocked.117c76e0-707e-4b16-54d6-c231f93c1cd7",
+          "value": "{\"ttl\":1685486703682,\"value\":\"0\"}"
+        },
+        {
+          "name": "ajs_user_traits",
+          "value": "{\"createdAt\":\"2022-04-12\",\"email\":\"terry+local@mabl.com\",\"firstName\":\"Terry\",\"id\":\"KBMusuufRCLRGH-FbFs5kA\",\"lastName\":\"Knowlton\",\"name\":\"Terry Knowlton\",\"username\":\"terry+local@mabl.com\",\"loginMethod\":\"CREDENTIALS\",\"mabl_account\":true,\"Workspace_ID\":\"Ii8K8QWSvWLc6zyE1XbWhQ-w\",\"trial_account\":true}"
+        },
+        {
+          "name": "__zlcstore",
+          "value": "{\"rA3BNtntWHxQPHZHMiT6SR2VTuY2TtLW\":{\"web_sdk_last_host\":\"widget-mediator.zopim.com\",\"timestamp\":1685472306039,\"account_status\":\"online\"}}"
+        },
+        {
+          "name": "okta-cache-storage",
+          "value": "{\"https://auth2-dev.mabl.com/oauth2/default/.well-known/openid-configuration\":{\"expiresAt\":1685558704,\"response\":{\"issuer\":\"https://auth2-dev.mabl.com/oauth2/default\",\"authorization_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/authorize\",\"token_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/token\",\"userinfo_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/userinfo\",\"registration_endpoint\":\"https://auth2-dev.mabl.com/oauth2/v1/clients\",\"jwks_uri\":\"https://auth2-dev.mabl.com/oauth2/default/v1/keys\",\"response_types_supported\":[\"code\",\"id_token\",\"code id_token\",\"code token\",\"id_token token\",\"code id_token token\"],\"response_modes_supported\":[\"query\",\"fragment\",\"form_post\",\"okta_post_message\"],\"grant_types_supported\":[\"authorization_code\",\"implicit\",\"refresh_token\",\"password\",\"urn:ietf:params:oauth:grant-type:device_code\"],\"subject_types_supported\":[\"public\"],\"id_token_signing_alg_values_supported\":[\"RS256\"],\"scopes_supported\":[\"openid\",\"profile\",\"email\",\"address\",\"phone\",\"offline_access\",\"device_sso\"],\"token_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"claims_supported\":[\"iss\",\"ver\",\"sub\",\"aud\",\"iat\",\"exp\",\"jti\",\"auth_time\",\"amr\",\"idp\",\"nonce\",\"name\",\"nickname\",\"preferred_username\",\"given_name\",\"middle_name\",\"family_name\",\"email\",\"email_verified\",\"profile\",\"zoneinfo\",\"locale\",\"address\",\"phone_number\",\"picture\",\"website\",\"gender\",\"birthdate\",\"updated_at\",\"at_hash\",\"c_hash\"],\"code_challenge_methods_supported\":[\"S256\"],\"introspection_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/introspect\",\"introspection_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"revocation_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/revoke\",\"revocation_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"end_session_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/logout\",\"request_parameter_supported\":true,\"request_object_signing_alg_values_supported\":[\"HS256\",\"HS384\",\"HS512\",\"RS256\",\"RS384\",\"RS512\",\"ES256\",\"ES384\",\"ES512\"],\"device_authorization_endpoint\":\"https://auth2-dev.mabl.com/oauth2/default/v1/device/authorize\",\"headers\":{\"cache-control\":\"max-age=86400, must-revalidate\",\"content-type\":\"application/json\",\"expires\":\"Wed, 31 May 2023 18:45:04 GMT\"}}},\"https://auth2-dev.mabl.com/oauth2/default/v1/keys\":{\"expiresAt\":1685558706,\"response\":{\"keys\":[{\"kty\":\"RSA\",\"alg\":\"RS256\",\"kid\":\"6_eoQ7W-MppEbdSgDstJNg_UOk-h91jkSvgGIKyLRfM\",\"use\":\"sig\",\"e\":\"AQAB\",\"n\":\"yusIiu4LTjveMhclNMRWuylqp2SBv-Qzv_fBOS97NfLdVDhA0TTpb1F6XLCrwW2CjySCRakMPPh5b397eZ1C22d8Hq3_Tee8gf1UgXBPxCFOLwifEhQzTnx7veRhIWca5JythWDdl_jzncrWuJ3kxdRZhyXsd7gzdzqzMFA2b9-I2nR2ZvDcPKsjwxl0KtLpn0Qu6K6PScyONvRc-_s1yTVXPxQzkNjMbKcne4UOtam-Bvra9WFuOqXEGJqW4RtbE80pQWPBydESVITMyajTm1ELzx_39QsLOzfdhoTKgmTC2AJQEjxtRyV6e566lZcAnRCBJHz-yss2Rc56PHNzTw\"}],\"headers\":{\"cache-control\":\"max-age=722076, must-revalidate\",\"content-type\":\"application/json\",\"expires\":\"Thu, 08 Jun 2023 03:19:42 GMT\"}}}}"
+        },
+        {
+          "name": "_pendo_visitorId.117c76e0-707e-4b16-54d6-c231f93c1cd7",
+          "value": "{\"ttl\":1694112308261,\"value\":\"KBMusuufRCLRGH-FbFs5kA\"}"
+        },
+        {
+          "name": "last_login_time",
+          "value": "1685472306605"
+        },
+        {
+          "name": "ZD-buid",
+          "value": "85458ba9fdbc4be49d59bcfd59b9d3a8"
+        },
+        {
+          "name": "current_environment_id",
+          "value": "P0f0cnmf3jnJPNEjnXBD9g-e"
+        },
+        {
+          "name": "ajs_group_id",
+          "value": "\"RI6s9Ki6tlSKotaGVwUacg-ac\""
+        },
+        {
+          "name": "expires_at",
+          "value": "1685508305000"
+        },
+        {
+          "name": "user_metadata",
+          "value": "{}"
+        },
+        {
+          "name": "auth_provider",
+          "value": "okta"
+        },
+        {
+          "name": "ADRUM_AGENT_INFO",
+          "value": "{\"ver\":\"4.5.2.1326\",\"id\":\"2266c48f_04b4_8681_3044_2955883fce6b\"}"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en-US"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"811696070d50479f9e278569a63f13c4\",\"expiry\":1685473205649,\"tabs\":{\"count\":1,\"expiry\":0}}"
+        },
+        {
+          "name": "_pendo_accountId.117c76e0-707e-4b16-54d6-c231f93c1cd7",
+          "value": "RI6s9Ki6tlSKotaGVwUacg-ac"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"6bbc1870-a9b8-4dc3-900a-5ed8dda71afe\""
+        },
+        {
+          "name": "ADRUM_CLIENTINFO",
+          "value": "{\"seqId\":0,\"clientId\":\"0ee50511_2a84_c697_bfec_815206d923d8\",\"agentId\":\"0ee50511_2a84_c697_bfec_815206d923d8\"}"
+        },
+        {
+          "name": "firebase:host:mabl-dev.firebaseio.com",
+          "value": "\"s-usc1a-nss-2030.firebaseio.com\""
+        },
+        {
+          "name": "ZD-store",
+          "value": "{\"activeEmbed\":\"chat\",\"widgetShown\":false,\"is_chatting\":false}"
+        }
+      ]
+    }
+  ]
+}
